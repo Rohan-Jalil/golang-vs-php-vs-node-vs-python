@@ -1,0 +1,15 @@
+{
+  "name": "rohan-benchmarking",
+  "version": "1.0.0",
+  "description": "Benchmarking",
+  "keywords": [
+    "benchmarking",
+    "Threading",
+    "Loops",
+    "Multi-tasking"
+  ],
+  "author": "Rohan",
+  "dependencies": {
+    "words-to-numbers": "1.5.1"
+  }
+}

@@ -1,0 +1,6 @@
+/vendor
+/config.php
+/composer.lock
+/.idea
+/file-reading
+/loops
